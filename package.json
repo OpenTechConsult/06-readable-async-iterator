@@ -1,0 +1,22 @@
+{
+  "name": "06-readable-async-iterator",
+  "version": "1.0.0",
+  "description": "This program shows how to consume a readable stream using the async iterator interface.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node read-stdin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/06-readable-async-iterator.git"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/06-readable-async-iterator/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/06-readable-async-iterator#readme"
+}
